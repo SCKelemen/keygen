@@ -1,0 +1,10 @@
+/Users/Kelemen/Desktop/kms/keygen/bin/Debug/netcoreapp2.0/keygen.deps.json
+/Users/Kelemen/Desktop/kms/keygen/bin/Debug/netcoreapp2.0/keygen.runtimeconfig.json
+/Users/Kelemen/Desktop/kms/keygen/bin/Debug/netcoreapp2.0/keygen.runtimeconfig.dev.json
+/Users/Kelemen/Desktop/kms/keygen/bin/Debug/netcoreapp2.0/keygen.dll
+/Users/Kelemen/Desktop/kms/keygen/bin/Debug/netcoreapp2.0/keygen.pdb
+/Users/Kelemen/Desktop/kms/keygen/obj/Debug/netcoreapp2.0/keygen.csproj.CoreCompileInputs.cache
+/Users/Kelemen/Desktop/kms/keygen/obj/Debug/netcoreapp2.0/keygen.AssemblyInfoInputs.cache
+/Users/Kelemen/Desktop/kms/keygen/obj/Debug/netcoreapp2.0/keygen.AssemblyInfo.cs
+/Users/Kelemen/Desktop/kms/keygen/obj/Debug/netcoreapp2.0/keygen.dll
+/Users/Kelemen/Desktop/kms/keygen/obj/Debug/netcoreapp2.0/keygen.pdb
